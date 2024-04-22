@@ -16,7 +16,7 @@ if "model" not in st.session_state:
 def app():
     st.subheader('RNN-LSTM Based Typhoon Prediction in the Philippines')
     
-    text = """ Assignment by: Mathew Gabriel
+    text = """ Assignment by: Mathew Gabriel BSCS 3A
     Source code by:Prof. Louie F. Cervantes, M. Eng. (Information Engineering)
     \nCCS 229 - Intelligent Systems
     *Department of Computer Science
